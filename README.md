@@ -3,5 +3,3 @@
 ### Lottie
 ### Imager with Glide.
 
-- [x] Done
-- [ ] To do
